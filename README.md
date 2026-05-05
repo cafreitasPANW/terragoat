@@ -18,6 +18,8 @@ TerraGoat is a learning and training project that demonstrates how common config
 
 ## Table of Contents
 
+hey
+
 * [Introduction](#introduction)
 * [Getting Started](#getting-started)
   * [AWS](#aws-setup)
